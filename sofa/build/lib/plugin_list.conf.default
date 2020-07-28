@@ -1,0 +1,14 @@
+
+SofaPython 0.1
+SofaExporter 1.0
+SofaSparseSolver 1.0
+SofaPreconditioner 1.0
+SofaHaptics 1.0
+SofaOpenglVisual 1.0
+CImgPlugin 0.1
+SofaSphFluid 1.0
+SofaMiscCollision 1.0
+SofaDistanceGrid 1.0
+CGALPlugin 0.1
+SofaCUDA NO_VERSION
+VolumetricRendering 0.1

@@ -1,0 +1,11 @@
+# ninja log v5
+0	192	1592922970413832874	SofaHighOrder-prefix/src/SofaHighOrder-stamp/SofaHighOrder-mkdir	e6982a9584181e2
+193	18743	1592922988965894714	SofaHighOrder-prefix/src/SofaHighOrder-stamp/SofaHighOrder-download	ca843d8f8058abf2
+18744	18794	1592922989013894874	SofaHighOrder-prefix/src/SofaHighOrder-stamp/SofaHighOrder-patch	d83b994c726014f8
+18743	20127	0	SofaHighOrder-prefix/src/SofaHighOrder-stamp/SofaHighOrder-update	61fedebf7f2c344a
+20128	20180	1592922990401899497	SofaHighOrder-prefix/src/SofaHighOrder-stamp/SofaHighOrder-configure	1ea7f303dbad3b14
+20180	20229	1592922990449899656	SofaHighOrder-prefix/src/SofaHighOrder-stamp/SofaHighOrder-build	9d985db5c7aab011
+20229	20278	1592922990497899817	SofaHighOrder-prefix/src/SofaHighOrder-stamp/SofaHighOrder-install	146fa28e51a2928a
+20278	20327	1592922990549899989	SofaHighOrder-prefix/src/SofaHighOrder-stamp/SofaHighOrder-test	a0657d7d37c18b83
+20327	20400	1592922990621900230	CMakeFiles/SofaHighOrder-complete	6e68b9a47141b44
+20327	20400	1592922990621900230	SofaHighOrder-prefix/src/SofaHighOrder-stamp/SofaHighOrder-done	6e68b9a47141b44

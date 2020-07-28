@@ -1,0 +1,59 @@
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- The C compiler identification is GNU 9.3.0
+-- The CXX compiler identification is GNU 9.3.0
+-- Check for working C compiler: /usr/bin/gcc
+-- Check for working C compiler: /usr/bin/gcc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/g++
+-- Check for working CXX compiler: /usr/bin/g++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/owen/Softwares/sofa/build/external_directories/fetched/SofaHighOrder
+[1/9] Creating directories for 'SofaHighOrder'
+[2/9] Performing download step (git clone) for 'SofaHighOrder'
+Cloning into 'SofaHighOrder'...
+Note: switching to 'origin/master'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 5bc51b9 Merge pull request #4 from VannesteFelix/anisotropy_test
+[3/9] No patch step for 'SofaHighOrder'
+[4/9] Performing update step for 'SofaHighOrder'
+HEAD is up-to-date.
+[5/9] No configure step for 'SofaHighOrder'
+[6/9] No build step for 'SofaHighOrder'
+[7/9] No install step for 'SofaHighOrder'
+[8/9] No test step for 'SofaHighOrder'
+[9/9] Completed 'SofaHighOrder'

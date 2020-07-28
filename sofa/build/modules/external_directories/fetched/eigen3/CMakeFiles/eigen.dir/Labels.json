@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/owen/Softwares/sofa/build/modules/external_directories/fetched/eigen3/CMakeFiles/eigen"
+		},
+		{
+			"file" : "/home/owen/Softwares/sofa/build/modules/external_directories/fetched/eigen3/CMakeFiles/eigen.rule"
+		},
+		{
+			"file" : "/home/owen/Softwares/sofa/build/modules/external_directories/fetched/eigen3/CMakeFiles/eigen-complete.rule"
+		},
+		{
+			"file" : "/home/owen/Softwares/sofa/build/modules/external_directories/fetched/eigen3/eigen-prefix/src/eigen-stamp/eigen-install.rule"
+		},
+		{
+			"file" : "/home/owen/Softwares/sofa/build/modules/external_directories/fetched/eigen3/eigen-prefix/src/eigen-stamp/eigen-mkdir.rule"
+		},
+		{
+			"file" : "/home/owen/Softwares/sofa/build/modules/external_directories/fetched/eigen3/eigen-prefix/src/eigen-stamp/eigen-download.rule"
+		},
+		{
+			"file" : "/home/owen/Softwares/sofa/build/modules/external_directories/fetched/eigen3/eigen-prefix/src/eigen-stamp/eigen-update.rule"
+		},
+		{
+			"file" : "/home/owen/Softwares/sofa/build/modules/external_directories/fetched/eigen3/eigen-prefix/src/eigen-stamp/eigen-patch.rule"
+		},
+		{
+			"file" : "/home/owen/Softwares/sofa/build/modules/external_directories/fetched/eigen3/eigen-prefix/src/eigen-stamp/eigen-configure.rule"
+		},
+		{
+			"file" : "/home/owen/Softwares/sofa/build/modules/external_directories/fetched/eigen3/eigen-prefix/src/eigen-stamp/eigen-build.rule"
+		},
+		{
+			"file" : "/home/owen/Softwares/sofa/build/modules/external_directories/fetched/eigen3/eigen-prefix/src/eigen-stamp/eigen-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"eigen"
+		],
+		"name" : "eigen"
+	}
+}
